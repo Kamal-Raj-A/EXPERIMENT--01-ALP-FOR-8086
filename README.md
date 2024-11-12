@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Hari Prasath. P
+Name : Vikaash P
 
-Roll no : 212223230070
+Reg no: 212223240180
 
 Date of experiment : 23.10.2024
 
