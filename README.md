@@ -1,9 +1,9 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Vikaash P
+Name : Kamal Raj A
 
-Reg no: 212223240180
+Reg no: 212223040082
 
-Date of experiment : 23.10.2024
+Date of experiment : 07.03.2025
 
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
